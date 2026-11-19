@@ -1,0 +1,6 @@
+@FAMS.API_HostAddress = http://localhost:5087
+
+GET {{FAMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

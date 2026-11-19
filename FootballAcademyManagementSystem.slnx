@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FAMS.API/FAMS.API.csproj" />
+    <Project Path="src/FAMS.Application/FAMS.Application.csproj" />
+    <Project Path="src/FAMS.Domain/FAMS.Domain.csproj" />
+    <Project Path="src/FAMS.Infrastructure/FAMS.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FAMS.API.IntegrationTests/FAMS.API.IntegrationTests.csproj" />
+    <Project Path="tests/FAMS.Application.UnitTests/FAMS.Application.UnitTests.csproj" />
+    <Project Path="tests/FAMS.Domain.UnitTests/FAMS.Domain.UnitTests.csproj" />
+  </Folder>
+</Solution>
